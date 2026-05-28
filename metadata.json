@@ -1,0 +1,6 @@
+{
+  "name": "RescuePay",
+  "description": "An interactive PhonePe clone demonstrating a 15-minute transaction freeze with instant rollback for wrong payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
